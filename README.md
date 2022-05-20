@@ -1,4 +1,4 @@
-### Hi there 👋, Promtech1
+### Hi there 👋, Uwagboe Promise
 #### Developer
 ![Developer](https://www.motocms.com/blog/wp-content/uploads/2019/11/how-to-become-a-web-developer.jpg)
 
