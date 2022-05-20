@@ -4,7 +4,7 @@
 
 I I'm Promise from Nigeria, and I am a Frontend engineer and developer. I really enjoy learning languages, frameworks and libraries like Javascript, React. I also love writing CSS.
 
-Skills: REACT / JS / HTML / CSS / SCSS / PYTHONA
+Skills: REACT / JS / HTML / CSS / SCSS / PYTHON
 
 - 🔭 I’m currently working on A react Project 
 - 🌱 I’m currently learning React 
