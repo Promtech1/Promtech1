@@ -17,9 +17,9 @@
 
 - ⚡ Fun fact **I Love Reading.**
 
-<span><img src="" height=30 width=150 style="visibility: hidden !important;"/></span>
+<p  style="height: 50px;">p</p>
 <h3 align="left" >Connect with me:</h3>
-<p align="left" style="margin-bottom: 50px;">
+<p align="left">
 <a href="https://dev.to/promtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="promtech" height="30" width="40" /></a>
 <a href="https://twitter.com/Promtech5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jonathan-uwagboe promise" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jonathan-uwagboe promise.o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan-uwagboe promise.o" height="30" width="40" /></a>
