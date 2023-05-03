@@ -33,5 +33,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=promtech1&" alt="promtech1" /></p>
 
 
-<h3 align="left" style="margin-top: 300px;">Support:</h3>
+<h3 align="left" style="margin-top: 30px;">Support:</h3>
 <p style="margin-bottom: 80px;"><a href="https://www.buymeacoffee.com/https://bmc.link/promtech"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/promtech" /></a></p><br><br>
