@@ -1,6 +1,6 @@
 [![MasterHead](https://img.freepik.com/free-vector/web-development-banner-computer-with-window-computer-with-browser-window_80328-118.jpg?w=2000)](https://www.linkedin.com/in/jonathan-uwagboe-promise-o-60b3a3205/)
 <h1 align="center">Hi 👋, I'm Jonathan-Uwagboe Promise</h1>
-<h3 align="center">A Topnotch Frontend Develope.</h3>
+<h3 align="center">A Topnotch Frontend Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=promtech1&label=Profile%20views&color=0e75b6&style=flat" alt="promtech1" /> </p>
