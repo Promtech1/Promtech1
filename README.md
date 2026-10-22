@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **React, Javascript, CSS.**
 
-- 📫 How to reach me **uwagboepromise5@gmail.com**
-
 - ⚡ Fun fact **I Love Reading.**
 
 </br>
